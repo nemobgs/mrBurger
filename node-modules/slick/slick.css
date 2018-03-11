@@ -1,0 +1,109 @@
+/* Slider */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick\.scss}line{font-family:\000033}}
+.slick-slider {
+  position: relative;
+  display: block;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -ms-touch-action: pan-y;
+  touch-action: pan-y;
+  -webkit-tap-highlight-color: transparent;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick\.scss}line{font-family:\0000317}}
+.slick-list {
+  position: relative;
+  overflow: hidden;
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick\.scss}line{font-family:\0000324}}
+.slick-list:focus {
+  outline: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick\.scss}line{font-family:\0000328}}
+.slick-list.dragging {
+  cursor: pointer;
+  cursor: hand;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick\.scss}line{font-family:\0000333}}
+.slick-slider .slick-track,
+.slick-slider .slick-list {
+  -webkit-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick\.scss}line{font-family:\0000342}}
+.slick-track {
+  position: relative;
+  left: 0;
+  top: 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick\.scss}line{font-family:\0000350}}
+.slick-track:before, .slick-track:after {
+  content: "";
+  display: table;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick\.scss}line{font-family:\0000356}}
+.slick-track:after {
+  clear: both;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick\.scss}line{font-family:\0000360}}
+.slick-loading .slick-track {
+  visibility: hidden;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick\.scss}line{font-family:\0000364}}
+.slick-slide {
+  float: left;
+  height: 100%;
+  min-height: 1px;
+  display: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick\.scss}line{font-family:\0000368}}
+[dir="rtl"] .slick-slide {
+  float: right;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick\.scss}line{font-family:\0000371}}
+.slick-slide img {
+  display: block;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick\.scss}line{font-family:\0000374}}
+.slick-slide.slick-loading img {
+  display: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick\.scss}line{font-family:\0000380}}
+.slick-slide.dragging img {
+  pointer-events: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick\.scss}line{font-family:\0000384}}
+.slick-initialized .slick-slide {
+  display: block;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick\.scss}line{font-family:\0000388}}
+.slick-loading .slick-slide {
+  visibility: hidden;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick\.scss}line{font-family:\0000392}}
+.slick-vertical .slick-slide {
+  display: block;
+  height: auto;
+  border: 1px solid transparent;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick\.scss}line{font-family:\0000398}}
+.slick-arrow.slick-hidden {
+  display: none;
+}
+
+/*# sourceMappingURL=slick.css.map */

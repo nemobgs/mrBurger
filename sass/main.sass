@@ -1,0 +1,543 @@
+@import "colors"
+@import "fonts"
+@import "media"
+body
+	color: $white
+	font-family: "ubuntu"
+#fp-nav
+	position: absolute
+	top: 100px
+	ul
+		li
+			margin: 2px
+			a
+				span
+					background: $white
+			.active
+				border: 1px solid $white
+				border-radius: 50%
+				span
+					background: $white
+					height: 4px !important
+					width: 4px !important
+					margin: -2px -2px !important
+#section0
+	background-image: url('../img/bg/1.jpg')
+	background-repeat: no-repeat
+	background-position: center
+	background-size: cover
+.nav__block
+	position: absolute
+	top: 10px
+.nav__nav-bar-block
+	padding: 20px 0px
+	.nav
+		.nav-item
+			padding-top: 5px
+			.nav-link
+				padding: 5px 15px
+				color: $white
+				font-size: 13px
+				&::after
+					content: ''
+					display: block
+					width: 100%
+					height: 1px
+					background: $white
+					transform: scale(0)
+					transition: 0.5s
+				&:hover
+					&::after
+						transform: scale(1)
+		.dots
+			color: $white
+			position: relative
+			top: 3px
+			font-weight: bold
+.nav-btn
+	cursor: pointer
+	width: 102px
+	height: 40px
+	background: $orange
+	border: 0
+	border-radius: 5px
+	transition: 0.5s
+	&:hover
+		background: darken($orange,10%)	
+	a
+		color: $white
+		font-size: 12px
+		padding: 0px 10px
+		&:hover
+			text-decoration: none
+.title-text
+	padding: 85px 15px
+	.title-text_yelo
+		font-family: "wpid-gagalin"
+		color: $yelo
+		font-size: 72px
+	.title-text_white
+		color: $white
+		font-family: "Lifehack"
+		font-size: 65px
+		line-height: 65px
+
+#section1
+	background-image: url('../img/bg/2.jpg')
+	background-repeat: no-repeat
+	background-position: center
+	background-size: cover
+.section1-title_block
+	position: absolute
+	top: 0px
+	width: 100%
+	padding-top: 80px
+	.section1-title
+		font-family: "wpid-gagalin"
+		color: $dgrey
+		font-size: 95px
+.section1-content
+	max-width: 1330px
+	position: relative
+	top: 55px
+.page2_contentBlock-title
+	font-family: "Lifehack"
+	color: $dgrey
+	padding: 20px 0px
+	h3
+		font-size: 30px
+.page2_contentBlock-text
+	color: $dgrey
+	span
+		font-size: 18px
+
+#section2
+	background-image: url('../img/bg/3.jpg')
+	background-repeat: no-repeat
+	background-position: center
+	background-size: cover
+.slick__container
+	// padding: 50px 150px
+.slContent1__height
+	height: 370px
+.slick-img
+	.slick-burger
+		width: 360px
+		margin: 45px
+.Slick_content-text
+	.slick_content_title
+		font-family: "wpid-gagalin"
+		color: $white
+		font-size: 72px
+		// line-height: 57px
+	.slick-content-text-mini
+		font-size: 12px
+		color: $white
+.Slick_content-text_price
+	.price
+		.price_param
+			color: $orange
+			font-family: "wpid-gagalin"
+		.price_num
+			font-size: 72px
+		.price_ru
+			font-size: 30px
+		.price-btn
+			position: relative
+			top: -10px
+			background: $orange
+			border: 0
+			border-radius: 5px
+			transition: 0.5s
+			margin: 0px 25px
+			height: 38px
+			width: 100px
+			&:hover
+				background: darken($orange,10%)	
+			a
+				color: $white
+				font-size: 11px
+				&:hover
+					text-decoration: none
+.Slick_content-text
+	position: relative
+	top: -4px
+.sostav
+	position: absolute
+	top: 0
+	width: 70px
+	height: 70px
+	background: $lorange
+	border-radius: 5px
+	&:hover
+		.ingridients-menu
+			display: block
+.kalorii
+	position: absolute
+	bottom: 0
+	width: 70px
+	height: 70px
+	// background: $lorange
+	border-radius: 5px
+.slick-icon
+	width: 40px
+	margin: 10px auto
+	margin-bottom: 0px 
+.icon-text
+	font-family: "wpid-gagalin"
+.sostav-icon_text
+	font-size: 10px
+	margin: 19px
+	position: relative
+	top: -5px
+	color: $white
+.kalorii-icon_text
+	margin: 17px
+	color: $rwhite
+.sostav-link
+	&:hover
+		text-decoration: none
+.ingridients-menu
+	border-radius: 5px
+	background: $OPAwhite
+	position: absolute
+	top: 0
+	left: 70px
+	width: 250px
+	padding: 12px 0px
+	display: none
+	z-index: 999
+	.sosta__menu-ul
+		list-style-type: none
+		.sostav__menu-item
+			padding: 5px 0px
+			.sostav__menu-item-block
+				color: $dgrey
+				position: relative
+				.sostav__menu-item-name
+					margin-left: 30px
+				.sostav__menu-item-gram
+					position: absolute
+					right: 40px
+.slick-prev
+	&::before
+		content: '<'
+		font-size: 40px
+.slick-next
+	&::before
+		content: '>'
+		font-size: 40px
+
+#section3
+	background-image: url('../img/bg/4.jpg')
+	background-repeat: no-repeat
+	background-position: center
+	background-size: cover
+.page4__container
+	// padding: 0px 60px
+	padding-top: 20%
+.Pege4__Title
+	font-family: "wpid-gagalin"
+	font-size: 72px
+	color: $yelo
+	position: absolute
+	top: 20px
+	left: 130px
+.page4__accordion
+	height: 350px
+.page4_height
+	height: 100%
+.page4_BG
+	background: $OPAdgrey
+.page4__card_bg
+	background: $OPA 
+	border: 0
+.page4__card-header_bg 
+	background: $OPA 
+	border: 0
+.page4__btn-link
+	font-family: "wpid-gagalin"
+	color: $white
+	transition: 0.5s
+	text-decoration: none
+	font-size: 14px
+	&::before
+		content: url('../img/bigImg/page4/icon/2.png')
+		padding-right: 5px
+	&:focus
+		text-decoration: none
+		color: $yelo !important
+		&::before
+			content: url('../img/bigImg/page4/icon/1.png')
+			padding-right: 5px
+	&:hover
+		color: $yelo
+		text-decoration: none
+.page4__card-body
+	padding: 0
+	.page4__card-body-img
+		img
+			width: 70px
+	.page4__card-body-text
+		color: $white
+		.page4__card-body-text_tile
+			font-weight: 500
+		.page4__card-body-text_mini
+			font-size: 10px
+
+#section4
+	background-image: url('../img/bg/5.jpg')
+	background-repeat: no-repeat
+	background-position: center
+	background-size: cover
+.page5__title
+	font-size: 72px
+	font-family: "wpid-gagalin"
+	position: absolute
+	top: 100px
+	left: 140px
+	color: $white
+.accordionP5_row-height
+	height: 100%
+	margin: 0
+	position: relative
+.Page5_accardion 
+	width: 940px
+	position: absolute
+	height: 100%
+	right: -280px
+.Page5_accardion_item 
+	width: 10%
+	float: left
+	height: 100%
+	cursor: pointer
+.accardionP5_item_title
+	transform: rotate(-90deg) !important
+	font-family: "wpid-gagalin"	
+	position: relative
+	top: 60%
+	left: 0
+	font-size: 35px
+.activeP5
+	background-color: $OPAdgrey
+	color: $yelo !important
+.Page5_accardion-info 
+	padding-top: 65px
+	padding-left: 15px
+	padding-right: 15px
+	width: 0
+	float: left
+	background-color: $OPAdgrey
+	color: $white
+	height: 100%
+	display: none
+.accardionP5_info-text
+	font-size: 12px
+.accardion_item-meet
+	background-image: url('../img/bigImg/page5/accardionBG/1.jpg')
+	background-repeat: no-repeat
+	background-size: cover
+.accardion_item-vegan
+	background-image: url('../img/bigImg/page5/accardionBG/2.jpg')
+	background-repeat: no-repeat
+	background-size: cover
+.accardion_item-diet
+	background-image: url('../img/bigImg/page5/accardionBG/3.jpg')
+	background-repeat: no-repeat
+	background-size: cover
+
+#section5
+	background: $dgrey
+.page6_row
+	height: 50%
+.page6_block
+	width: 100%
+	height: 100%
+	padding: 0px	
+	background-repeat: no-repeat
+	background-size: cover
+	background-position: center 
+	&:hover
+		.page6_block-hover
+			display: block
+			transition: 0.5s
+			&:hover
+				background: $OPAdgrey
+.page6_block-hover
+	width: 100%
+	height: 100%
+	display: none
+	padding: 40px 30px
+.page6_block-hover-Title
+	font-family: "wpid-gagalin"
+	padding-bottom: 30px
+.page6_block-hover-Text
+	span
+		font-size: 11px
+		line-height: 10px
+.page6_block-hover-btn
+	padding-top: 20px
+	button
+		background: darken($dgrey,5%)
+		height: 30px
+		widht: 100px
+		color: $white
+		font-size: 11px
+		transition: 0.5s
+		&:hover
+			background: darken($dgrey,20%)
+.page6_block1
+	background-image: url('../img/bigImg/page6/people/1.jpg')
+.page6_block2
+	background-image: url('../img/bigImg/page6/people/2.jpg')
+.page6_block3
+	background-image: url('../img/bigImg/page6/people/3.jpg')
+.page6_block4
+	background-image: url('../img/bigImg/page6/people/4.jpg')
+.page6_block5
+	background-image: url('../img/bigImg/page6/people/5.jpg')
+.page6_block6
+	background-image: url('../img/bigImg/page6/people/6.jpg')
+.page6_block7
+	background-image: url('../img/bigImg/page6/people/7.jpg')
+.page6_block8
+	background-image: url('../img/bigImg/page6/people/8.jpg')
+
+.POPUPBLOCK
+	height: 100%
+.overlay
+	position: absolute
+	width: 100%
+	height: 100vh
+	top: 0
+	left: 0
+	background: $OPAdgrey
+	display: none
+.popup
+	position: absolute
+	width: 400px
+	left: 50%
+	top: 50%
+	transform: translate(-50%, -50%)
+	padding: 30px
+	box-sizing: border-box
+	background: $white
+	color: $dgrey
+	border-radius: 5px
+.popup-titile-block
+	position: relative
+	top: -11px
+.popup-titile
+	font-family: "wpid-gagalin"
+	font-size: 15px
+.popup-text
+	font-size: 11px
+.close-popup
+	position: absolute
+	top: 15px 
+	right: 15px
+	width: 23px
+	height: 23px
+	cursor: pointer
+	&::before
+		content: ''
+		background: $rose
+		position: absolute
+		height: 2px
+		width: 20px
+		top: 11px
+		transform: rotate(45deg)
+		left: -4px
+	&::after
+		content: ''
+		background: $rose
+		position: absolute
+		height: 2px
+		width: 20px
+		top: 11px
+		transform: rotate(-45deg)
+		left: -4px
+
+#section6
+	background-image: url('../img/bg/7.jpg')
+	background-repeat: no-repeat
+	background-position: center
+	background-size: cover
+.page7_titile
+	position: relative
+	top: -30px
+	span
+		color: $yelo
+		font-family: "wpid-gagalin"
+		font-size: 75px
+
+.Page7_input_text
+	font-size: 12px
+.page7_container
+	padding: 0px 150px
+.Page7_input_block
+	margin-bottom: 12px
+	padding-left: 0px
+	padding-right: 20px
+.Page7_input
+	width: 100%
+	border-radius: 3px
+	border: 0
+	margin-top: 12px
+.input_checkbox-block
+	display: flex
+	align-items: center
+	input
+		margin-right: 5px
+.comment_input
+	height: 100px
+.btn-submit
+	background: $orange
+	color: $white
+	width: 95px
+	height: 40px
+	font-size: 14px
+	margin-right: 20px
+	&:hover
+		background: darken($orange,10%) 
+.cleanBtn
+	color: $white
+	transition: 0.5s
+	font-size: 14px
+	padding-top: 9px
+	&:hover
+		text-decoration: none
+		color: $orange
+
+
+//// SECTION 8 
+.pade8_row
+	height: 100%
+.footer
+	background: $black
+	// height: 70px
+	width: 100%
+	position: absolute
+	bottom: 0
+	left: 0
+	padding: 10px 0px
+#map
+	height: 100%
+	width: 100%
+.footer_Text
+	font-size: 14px
+.footer-Tel
+	color: $orange
+	font-size: 14px
+	transition: 0.5s
+	&:hover
+		color: $yelo
+		text-decoration: none
+.footer-icon-block
+	padding-top: 10px
+.footer-icon-link
+	color: $grey
+	transition: 0.5s
+	margin-left: 10px
+	&:hover
+		color: $yelo

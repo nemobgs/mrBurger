@@ -1,0 +1,175 @@
+@charset "UTF-8";
+/* Slider */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick-theme\.scss}line{font-family:\0000345}}
+.slick-loading .slick-list {
+  background: #fff url("./ajax-loader.gif") center center no-repeat;
+}
+
+/* Icons */
+@font-face {
+  font-family: "slick";
+  src: url("./fonts/slick.eot");
+  src: url("./fonts/slick.eot?#iefix") format("embedded-opentype"), url("./fonts/slick.woff") format("woff"), url("./fonts/slick.ttf") format("truetype"), url("./fonts/slick.svg#slick") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+/* Arrows */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick-theme\.scss}line{font-family:\0000363}}
+.slick-prev,
+.slick-next {
+  position: absolute;
+  display: block;
+  height: 20px;
+  width: 20px;
+  line-height: 0px;
+  font-size: 0px;
+  cursor: pointer;
+  background: transparent;
+  color: transparent;
+  top: 50%;
+  -webkit-transform: translate(0, -50%);
+  transform: translate(0, -50%);
+  padding: 0;
+  border: none;
+  outline: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick-theme\.scss}line{font-family:\0000381}}
+.slick-prev:hover, .slick-prev:focus,
+.slick-next:hover,
+.slick-next:focus {
+  outline: none;
+  background: transparent;
+  color: transparent;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick-theme\.scss}line{font-family:\0000385}}
+.slick-prev:hover:before, .slick-prev:focus:before,
+.slick-next:hover:before,
+.slick-next:focus:before {
+  opacity: 1;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick-theme\.scss}line{font-family:\0000389}}
+.slick-prev.slick-disabled:before,
+.slick-next.slick-disabled:before {
+  opacity: 0.25;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick-theme\.scss}line{font-family:\0000392}}
+.slick-prev:before,
+.slick-next:before {
+  font-family: "slick";
+  font-size: 20px;
+  line-height: 1;
+  color: white;
+  opacity: 0.75;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick-theme\.scss}line{font-family:\00003103}}
+.slick-prev {
+  left: -25px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick-theme\.scss}line{font-family:\00003105}}
+[dir="rtl"] .slick-prev {
+  left: auto;
+  right: -25px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick-theme\.scss}line{font-family:\00003109}}
+.slick-prev:before {
+  content: "←";
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick-theme\.scss}line{font-family:\00003111}}
+[dir="rtl"] .slick-prev:before {
+  content: "→";
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick-theme\.scss}line{font-family:\00003117}}
+.slick-next {
+  right: -25px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick-theme\.scss}line{font-family:\00003119}}
+[dir="rtl"] .slick-next {
+  left: -25px;
+  right: auto;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick-theme\.scss}line{font-family:\00003123}}
+.slick-next:before {
+  content: "→";
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick-theme\.scss}line{font-family:\00003125}}
+[dir="rtl"] .slick-next:before {
+  content: "←";
+}
+
+/* Dots */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick-theme\.scss}line{font-family:\00003133}}
+.slick-dotted.slick-slider {
+  margin-bottom: 30px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick-theme\.scss}line{font-family:\00003137}}
+.slick-dots {
+  position: absolute;
+  bottom: -25px;
+  list-style: none;
+  display: block;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick-theme\.scss}line{font-family:\00003146}}
+.slick-dots li {
+  position: relative;
+  display: inline-block;
+  height: 20px;
+  width: 20px;
+  margin: 0 5px;
+  padding: 0;
+  cursor: pointer;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick-theme\.scss}line{font-family:\00003154}}
+.slick-dots li button {
+  border: 0;
+  background: transparent;
+  display: block;
+  height: 20px;
+  width: 20px;
+  outline: none;
+  line-height: 0px;
+  font-size: 0px;
+  color: transparent;
+  padding: 5px;
+  cursor: pointer;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick-theme\.scss}line{font-family:\00003166}}
+.slick-dots li button:hover, .slick-dots li button:focus {
+  outline: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick-theme\.scss}line{font-family:\00003168}}
+.slick-dots li button:hover:before, .slick-dots li button:focus:before {
+  opacity: 1;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick-theme\.scss}line{font-family:\00003172}}
+.slick-dots li button:before {
+  position: absolute;
+  top: 0;
+  left: 0;
+  content: "•";
+  width: 20px;
+  height: 20px;
+  font-family: "slick";
+  font-size: 6px;
+  line-height: 20px;
+  text-align: center;
+  color: black;
+  opacity: 0.25;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/node-modules\/slick\/slick-theme\.scss}line{font-family:\00003189}}
+.slick-dots li.slick-active button:before {
+  color: black;
+  opacity: 0.75;
+}
+
+/*# sourceMappingURL=slick-theme.css.map */
