@@ -10,164 +10,468 @@
   font-family: "ubuntu";
   src: url("../fonts/ubuntu/UbuntuMedium.ttf");
 }
-@media(min-width: 200px) and (max-width: 760px) {
+@media (max-width: 400px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\000032}}
+  .page2_contentBlock-text {
+    padding-bottom: 20px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\000034}}
+  .page2_contentBlock-text span {
+    font-size: 13px !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\000036}}
+  .page2_contentBlock-title {
+    padding-bottom: 0px !important;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\000038}}
+  .page2_contentBlock-title h3 {
+    font-size: 25px !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\0000310}}
+  .section1-title_block {
+    padding-top: 15px !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\0000312}}
+  .nav {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\0000315}}
+  .dots {
+    display: none;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\0000317}}
   .title-text_yelo {
-    font-size: 60px !important;
+    font-size: 50px !important;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\0000319}}
   .title-text_white {
-    font-size: 51px !important;
+    font-size: 40px !important;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\0000321}}
   .section1-title {
-    font-size: 75px !important;
+    font-size: 45px !important;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\0000323}}
   .mob-ingridient {
     text-align: center;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\0000325}}
+  .price-btn {
+    top: 5px !important;
+    left: -75px;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\0000328}}
+  .Pege4__Title {
+    font-size: 40px !important;
+    top: 11px !important;
+    left: 25% !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\0000333}}
+  .page7_titile span {
+    font-size: 50px !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\0000335}}
+  .page5__title {
+    left: 40px !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\0000337}}
+  .page1-imgBurger {
+    margin-top: 250px;
+    width: 295px;
+    height: 220px;
+    margin-right: 8px;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\0000342}}
+  .title-text {
+    text-align: center;
+    padding: 20px 15px !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\0000345}}
+  .mobile-margin-top {
+    margin-top: 50px;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\0000347}}
+  .mobile-margin-bottom {
+    padding-bottom: 100px;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\0000349}}
+  .page6_block-hover {
+    padding: 25px !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\0000351}}
+  .page6_block-hover-Title {
+    padding-bottom: 0px !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\0000353}}
+  .slick-burger {
+    width: 120% !important;
+    margin: 73px 4px !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\0000356}}
+  .slick-content-text-mini {
+    padding: 0px 0px !important;
+    font-size: 5px !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\0000359}}
+  .slick_content_title {
+    font-size: 21px !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\0000361}}
+  .price_param {
+    font-size: 22px !important;
+    position: relative;
+    left: -53px;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\0000365}}
+  .price {
+    position: absolute;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\0000367}}
+  .slick__container {
+    padding: 0px 30px !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\0000369}}
+  .slick-icon {
+    width: 30px !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\0000371}}
+  .sostav {
+    height: 55px !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\0000373}}
+  .ingridients-menu {
+    left: 4px !important;
+    padding: 0px !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\0000376}}
+  .page4-hidden {
+    display: none;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\0000378}}
+  .page4__card-body {
+    padding: 0px 40px !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\0000380}}
+  .Page5_accardion {
+    right: -107px !important;
+    width: 360px !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\0000383}}
+  .page5__title {
+    display: none;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\0000385}}
+  .popup {
+    width: 95% !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\0000387}}
+  .page7_container {
+    padding: 0px 20px !important;
+    margin-top: 50px;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\0000390}}
+  .Page7_input {
+    margin-top: 0px;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\0000392}}
+  .Page7_input_block {
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\0000395}}
+  .footer-icon-block {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+}
+@media (min-width: 400px) and (max-width: 767px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\0000399}}
+  .title-text_yelo {
+    font-size: 60px !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003101}}
+  .title-text_white {
+    font-size: 51px !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003103}}
+  .section1-title {
+    font-size: 65px !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003105}}
+  .section1-title_block {
+    padding-top: 35px !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003107}}
+  .mob-ingridient {
+    text-align: center;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003109}}
   .price-btn {
     top: 5px !important;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003111}}
   .Pege4__Title {
     font-size: 50px !important;
     top: 11px !important;
     left: 56px !important;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003116}}
   .page7_titile span {
     font-size: 66px !important;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003118}}
   .page5__title {
     left: 40px !important;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003120}}
   .page1-imgBurger {
     margin-top: 200px;
     width: 300px;
     height: 240px;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003124}}
   .title-text {
     text-align: center;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003126}}
   .mobile-margin-top {
-    margin-top: 220px;
+    margin-top: 120px;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003128}}
+  .page2_contentBlock-title {
+    padding: 10px 0px !important;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003130}}
+  .page2_contentBlock-title h3 {
+    font-size: 25px !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003132}}
+  .page2_contentBlock-text {
+    padding-bottom: 20px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003134}}
+  .page2_contentBlock-text span {
+    font-size: 15px;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003136}}
+  .page5__title {
+    display: none;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003138}}
+  .footer-icon-block {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003141}}
   .mobile-margin-bottom {
     padding-bottom: 100px;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003143}}
   .page6_block-hover {
     padding: 25px !important;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003145}}
   .page6_block-hover-Title {
     padding-bottom: 0px !important;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003147}}
   .slick-burger {
-    width: 160px !important;
+    width: 100% !important;
     margin: 73px 4px !important;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003150}}
   .slick-content-text-mini {
     padding: 0px 6px !important;
     font-size: 7px !important;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003153}}
   .slick_content_title {
     font-size: 16px !important;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003155}}
   .price_param {
     font-size: 30px !important;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003157}}
   .slick__container {
     padding: 0px 30px !important;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003159}}
   .page4-hidden {
     display: none;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003161}}
   .page4__card-body {
     padding: 0px 40px !important;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003163}}
   .Page5_accardion {
     right: -137px !important;
     width: 466px !important;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003166}}
   .page7_container {
     padding: 0px 20px !important;
     margin-top: 50px;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003169}}
   .Page7_input {
     margin-top: 0px;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003171}}
   .Page7_input_block {
     padding-left: 5px !important;
     padding-right: 5px !important;
   }
 }
-@media(min-width: 761px) and (max-width: 989px) {
+@media (min-width: 768px) and (max-width: 991px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003175}}
   .title-text {
     text-align: center;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003177}}
   .page1-imgBurger {
     margin-top: 135px;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003179}}
   .slick-burger {
     margin: 45px 0px !important;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003181}}
   .slick_content_title {
     line-height: 57px;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003183}}
   .mobile-margin-top {
     margin-top: 150px;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003185}}
   .mobile-margin-bottom {
     padding-bottom: 100px;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003187}}
   .price_param {
     font-size: 50px !important;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003189}}
   .slick_content_title {
     font-size: 45px !important;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003192}}
   .Pege4__Title span {
     font-size: 50px;
   }
 }
-@media(min-width: 990px) and (max-width: 1200px) {
+@media (min-width: 992px) and (max-width: 1199px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003195}}
   .page2_contentBlock {
     margin: 20px 0px;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003197}}
   .slick-burger {
     width: 400px !important;
   }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003199}}
   .slick_content_title {
     line-height: 57px;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003201}}
+  .section1-title_block {
+    padding-top: 0px !important;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/_media\.sass}line{font-family:\00003203}}
+  .page4__card-body-text {
+    margin-left: 20px;
   }
 }
 @media(min-width: 1200px) {
@@ -544,16 +848,20 @@ body {
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003223}}
 .slick-prev::before {
   content: "<";
-  font-size: 40px;
+  font-size: 35px;
+  position: relative;
+  top: -12px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003227}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003229}}
 .slick-next::before {
   content: ">";
-  font-size: 40px;
+  font-size: 35px;
+  position: relative;
+  top: -12px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003231}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003235}}
 #section3 {
   background-image: url("../img/bg/4.jpg");
   background-repeat: no-repeat;
@@ -561,12 +869,12 @@ body {
   background-size: cover;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003236}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003240}}
 .page4__container {
   padding-top: 20%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003239}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003243}}
 .Pege4__Title {
   font-family: "wpid-gagalin";
   font-size: 72px;
@@ -576,34 +884,34 @@ body {
   left: 130px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003246}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003250}}
 .page4__accordion {
   height: 350px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003248}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003252}}
 .page4_height {
   height: 100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003250}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003254}}
 .page4_BG {
   background: rgba(47, 50, 52, 0.8);
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003252}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003256}}
 .page4__card_bg {
   background: rgba(0, 0, 0, 0);
   border: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003255}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003259}}
 .page4__card-header_bg {
   background: rgba(0, 0, 0, 0);
   border: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003258}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003262}}
 .page4__btn-link {
   font-family: "wpid-gagalin";
   color: #fff;
@@ -612,49 +920,49 @@ body {
   text-decoration: none;
   font-size: 14px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003264}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003268}}
 .page4__btn-link::before {
   content: url("../img/bigImg/page4/icon/2.png");
   padding-right: 5px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003267}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003271}}
 .page4__btn-link:focus {
   text-decoration: none;
   color: #efae39 !important;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003270}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003274}}
 .page4__btn-link:focus::before {
   content: url("../img/bigImg/page4/icon/1.png");
   padding-right: 5px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003273}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003277}}
 .page4__btn-link:hover {
   color: #efae39;
   text-decoration: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003276}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003280}}
 .page4__card-body {
   padding: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003279}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003283}}
 .page4__card-body .page4__card-body-img img {
   width: 70px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003281}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003285}}
 .page4__card-body .page4__card-body-text {
   color: #fff;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003283}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003287}}
 .page4__card-body .page4__card-body-text .page4__card-body-text_tile {
   font-weight: 500;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003285}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003289}}
 .page4__card-body .page4__card-body-text .page4__card-body-text_mini {
   font-size: 10px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003288}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003292}}
 #section4 {
   background-image: url("../img/bg/5.jpg");
   background-repeat: no-repeat;
@@ -662,7 +970,7 @@ body {
   background-size: cover;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003293}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003297}}
 .page5__title {
   font-size: 72px;
   font-family: "wpid-gagalin";
@@ -672,14 +980,14 @@ body {
   color: #fff;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003300}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003304}}
 .accordionP5_row-height {
   height: 100%;
   margin: 0;
   position: relative;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003304}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003308}}
 .Page5_accardion {
   width: 940px;
   position: absolute;
@@ -687,7 +995,7 @@ body {
   right: -280px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003309}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003313}}
 .Page5_accardion_item {
   width: 10%;
   float: left;
@@ -695,7 +1003,7 @@ body {
   cursor: pointer;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003314}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003318}}
 .accardionP5_item_title {
   -webkit-transform: rotate(-90deg) !important;
           transform: rotate(-90deg) !important;
@@ -706,13 +1014,13 @@ body {
   font-size: 35px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003321}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003325}}
 .activeP5 {
   background-color: rgba(47, 50, 52, 0.8);
   color: #efae39 !important;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003324}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003328}}
 .Page5_accardion-info {
   padding-top: 65px;
   padding-left: 15px;
@@ -725,43 +1033,43 @@ body {
   display: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003334}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003338}}
 .accardionP5_info-text {
   font-size: 12px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003336}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003340}}
 .accardion_item-meet {
   background-image: url("../img/bigImg/page5/accardionBG/1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003340}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003344}}
 .accardion_item-vegan {
   background-image: url("../img/bigImg/page5/accardionBG/2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003344}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003348}}
 .accardion_item-diet {
   background-image: url("../img/bigImg/page5/accardionBG/3.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003349}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003353}}
 #section5 {
   background: #2f3234;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003351}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003355}}
 .page6_row {
   height: 50%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003353}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003357}}
 .page6_block {
   width: 100%;
   height: 100%;
@@ -770,18 +1078,18 @@ body {
   background-size: cover;
   background-position: center;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003361}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003365}}
 .page6_block:hover .page6_block-hover {
   display: block;
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003364}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003368}}
 .page6_block:hover .page6_block-hover:hover {
   background: rgba(47, 50, 52, 0.8);
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003366}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003370}}
 .page6_block-hover {
   width: 100%;
   height: 100%;
@@ -789,23 +1097,23 @@ body {
   padding: 40px 30px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003371}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003375}}
 .page6_block-hover-Title {
   font-family: "wpid-gagalin";
   padding-bottom: 30px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003375}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003379}}
 .page6_block-hover-Text span {
   font-size: 11px;
   line-height: 10px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003378}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003382}}
 .page6_block-hover-btn {
   padding-top: 20px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003380}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003384}}
 .page6_block-hover-btn button {
   background: #232527;
   height: 30px;
@@ -815,57 +1123,57 @@ body {
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003387}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003391}}
 .page6_block-hover-btn button:hover {
   background: black;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003389}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003393}}
 .page6_block1 {
   background-image: url("../img/bigImg/page6/people/1.jpg");
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003391}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003395}}
 .page6_block2 {
   background-image: url("../img/bigImg/page6/people/2.jpg");
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003393}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003397}}
 .page6_block3 {
   background-image: url("../img/bigImg/page6/people/3.jpg");
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003395}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003399}}
 .page6_block4 {
   background-image: url("../img/bigImg/page6/people/4.jpg");
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003397}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003401}}
 .page6_block5 {
   background-image: url("../img/bigImg/page6/people/5.jpg");
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003399}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003403}}
 .page6_block6 {
   background-image: url("../img/bigImg/page6/people/6.jpg");
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003401}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003405}}
 .page6_block7 {
   background-image: url("../img/bigImg/page6/people/7.jpg");
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003403}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003407}}
 .page6_block8 {
   background-image: url("../img/bigImg/page6/people/8.jpg");
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003406}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003410}}
 .POPUPBLOCK {
   height: 100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003408}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003412}}
 .overlay {
   position: absolute;
   width: 100%;
@@ -876,7 +1184,7 @@ body {
   display: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003416}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003420}}
 .popup {
   position: absolute;
   width: 400px;
@@ -892,24 +1200,24 @@ body {
   border-radius: 5px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003427}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003431}}
 .popup-titile-block {
   position: relative;
   top: -11px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003430}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003434}}
 .popup-titile {
   font-family: "wpid-gagalin";
   font-size: 15px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003433}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003437}}
 .popup-text {
   font-size: 11px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003435}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003439}}
 .close-popup {
   position: absolute;
   top: 15px;
@@ -918,7 +1226,7 @@ body {
   height: 23px;
   cursor: pointer;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003442}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003446}}
 .close-popup::before {
   content: "";
   background: #eb876c;
@@ -930,7 +1238,7 @@ body {
           transform: rotate(45deg);
   left: -4px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003451}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003455}}
 .close-popup::after {
   content: "";
   background: #eb876c;
@@ -943,7 +1251,7 @@ body {
   left: -4px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003461}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003465}}
 #section6 {
   background-image: url("../img/bg/7.jpg");
   background-repeat: no-repeat;
@@ -951,36 +1259,36 @@ body {
   background-size: cover;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003466}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003470}}
 .page7_titile {
   position: relative;
   top: -30px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003469}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003473}}
 .page7_titile span {
   color: #efae39;
   font-family: "wpid-gagalin";
   font-size: 75px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003474}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003478}}
 .Page7_input_text {
   font-size: 12px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003476}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003480}}
 .page7_container {
   padding: 0px 150px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003478}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003482}}
 .Page7_input_block {
   margin-bottom: 12px;
   padding-left: 0px;
   padding-right: 20px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003482}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003486}}
 .Page7_input {
   width: 100%;
   border-radius: 3px;
@@ -988,7 +1296,7 @@ body {
   margin-top: 12px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003487}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003491}}
 .input_checkbox-block {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -997,17 +1305,17 @@ body {
       -ms-flex-align: center;
           align-items: center;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003490}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003494}}
 .input_checkbox-block input {
   margin-right: 5px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003492}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003496}}
 .comment_input {
   height: 100px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003494}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003498}}
 .btn-submit {
   background: #e45028;
   color: #fff;
@@ -1016,12 +1324,12 @@ body {
   font-size: 14px;
   margin-right: 20px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003501}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003505}}
 .btn-submit:hover {
   background: #c13c18;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003503}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003507}}
 .cleanBtn {
   color: #fff;
   -webkit-transition: 0.5s;
@@ -1029,18 +1337,18 @@ body {
   font-size: 14px;
   padding-top: 9px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003508}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003512}}
 .cleanBtn:hover {
   text-decoration: none;
   color: #e45028;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003514}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003518}}
 .pade8_row {
   height: 100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003516}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003520}}
 .footer {
   background: #131313;
   width: 100%;
@@ -1050,45 +1358,44 @@ body {
   padding: 10px 0px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003524}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003528}}
 #map {
   height: 100%;
   width: 100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003527}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003531}}
 .footer_Text {
   font-size: 14px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003529}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003533}}
 .footer-Tel {
   color: #e45028;
   font-size: 14px;
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003533}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003537}}
 .footer-Tel:hover {
   color: #efae39;
   text-decoration: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003536}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003540}}
 .footer-icon-block {
   padding-top: 10px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003538}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003542}}
 .footer-icon-link {
   color: #585858;
   -webkit-transition: 0.5s;
   transition: 0.5s;
   margin-left: 10px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003542}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/User\/Desktop\/Urich\/sass\/main\.sass}line{font-family:\00003546}}
 .footer-icon-link:hover {
   color: #efae39;
 }
-
 /*# sourceMappingURL=main.css.map */
